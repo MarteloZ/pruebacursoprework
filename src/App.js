@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Esta es una práctica Prework de Platzy
+          Este es el segundo commit del curso Prework de Platzy
         </a>
       </header>
     </div>
